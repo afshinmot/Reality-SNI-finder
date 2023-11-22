@@ -14,3 +14,14 @@ cloudinary.com
 www.netlify.com
 stackoverflow.com
 www.gsmarena.com
+mediacenter1.tech:443
+discord.com:443
+discord.com:443
+milkyways.top:443
+slack.com:443
+cloudflare.com:443
+juppi.no:443
+telewebion.com:443
+masts.lv:443
+takabpishro.com:443
+discord.com:443
